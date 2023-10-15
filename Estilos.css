@@ -1,0 +1,44 @@
+.PERRITO {
+color: rgb(4, 96, 36);
+}
+
+.visita {
+color: rgb(222, 20, 209);
+}
+
+
+H3 {
+color: brown;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size:x-large;
+font-style:italic;
+text-decoration: underline;
+}
+
+
+LI {
+color: blueviolet;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+footer {
+
+background-color: rgb(197, 234, 245);
+
+}
+
+body {
+
+    background-color: rgb(197, 234, 245);
+    
+    }
+
+
+table,td {
+
+border-collapse: collapse;
+border: 2px red solid;
+background-color: coral;
+
+
+}
